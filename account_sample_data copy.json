@@ -1,0 +1,17 @@
+[
+    {
+        "account_number": 1,
+        "username": "tester1",
+        "password": "testerpw1",
+        "savings_amount": 22164.32,
+        "debt_amount": 5218.21
+    },
+    {
+        "account_number": 2,
+        "username": "user2",
+        "password": "password",
+        "savings_amount": 82162.58,
+        "debt_amount": 15272.19
+    }
+    
+]

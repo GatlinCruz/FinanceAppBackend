@@ -1,0 +1,67 @@
+[
+    {
+        "account_number": 1,
+        "id": 1,
+        "date":"02/21/24",
+        "payment_method":"Apple card",
+        "transaction_type":"Credit",
+        "transaction_category":"Bill",
+        "transaction_description":"Power",
+        "reward_is_points":false,
+        "points_or_cashback_percentage":0.05,
+        "amount":123.39,
+        "is_verified": true
+    },
+    {
+        "account_number": 1,
+        "id": 2,
+        "date":"02/22/24",
+        "payment_method":"Chase",
+        "transaction_type":"Credit",
+        "transaction_category": "Groceries",
+        "transaction_description":"Publix",
+        "reward_is_points":false,
+        "points_or_cashback_percentage": 0.00,
+        "amount": 52.22,
+        "is_verified": true
+    },
+    {
+        "account_number": 1,
+        "id": 3,
+        "date":"02/22/23",
+        "payment_method":"Wells Fargo",
+        "transaction_type":"Credit",
+        "transaction_category": "Bills",
+        "transaction_description":"Gas",
+        "reward_is_points":true,
+        "points_or_cashback_percentage": 0.02,
+        "amount": 13992.22,
+        "is_verified": true
+    },
+    {
+        "account_number": 1,
+        "id": 4,
+        "date":"03/23/24",
+        "payment_method":"Visa Card",
+        "transaction_type":"Credit",
+        "transaction_category":"Food",
+        "transaction_description":"Chick fil a",
+        "reward_is_points":false,
+        "points_or_cashback_percentage":0.03,
+        "amount":21.25,
+        "is_verified": true
+    },
+    {
+        "account_number": 2,
+        "id": 1,
+        "date":"01/01/24",
+        "payment_method":"Apple card",
+        "transaction_type":"Credit",
+        "transaction_category":"Bill",
+        "transaction_description":"Power",
+        "reward_is_points":false,
+        "points_or_cashback_percentage":0.05,
+        "amount":1.39,
+        "is_verified": true
+    }
+]
